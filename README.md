@@ -5,7 +5,7 @@
 🌟 In web development I create interactive and responsive sites.   
 📱 I also work on mobile apps with a focus on usability and smooth user flows.  
 🎨 As a graphic designer I create logos, mockups, thumbnails, social media posts, and other visual content.  
-🤖 I apply model training to real projects — for example a **sign detection app** and a **fake review detector**.  
+🤖 I integrate AI/ML tools into projects — for example a **sign detection app** and a **fake review detector**, bringing smart features into practical tools.  
 ✍️ I write blogs about **technology, design, and development** to share what I learn.  
 🚀 I combine **design, code, and machine learning** to make meaningful projects and keep improving every day.  
 
